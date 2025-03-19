@@ -6,6 +6,8 @@ While my GitHub is mostly empty right now due to work restrictions, that’s abo
 
 Let’s connect and build something awesome! 🚀
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ---
 
 ## ⚡ Tech Stack  
