@@ -4,8 +4,6 @@ I’m a Software Engineering Apprentice at Apple, currently working in the Data 
 
 While my GitHub is mostly empty right now due to work restrictions, that’s about to change—I’ll be posting more personal projects as I explore new technologies, build cool things, and experiment with ideas outside of work. I’m interested in software development, cloud computing, DevOps, and AI/ML, and I love learning about new tools and best practices to improve efficiency and scalability in engineering.
 
----
-
 ⚡ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -18,10 +16,6 @@ While my GitHub is mostly empty right now due to work restrictions, that’s abo
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
-
-
-
----
 
 ## 🚀 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matthew-east-a30023b8/))
