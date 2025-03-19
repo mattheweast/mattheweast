@@ -1,4 +1,4 @@
-👋 Hey, I’m Matt!
+# 👋 Hey, I’m Matt!
 
 I’m a Software Engineering Apprentice at Apple, currently working in the Data Team after previously being part of the Quality Assurance & Software Testing Team. My experience spans testing, automation, cloud technologies, and data workflows, but I’m always looking to expand my skill set beyond just what I’ve worked on.
 
