@@ -12,38 +12,40 @@
 ## ⚡ Tech Stack  
 
 ### 🖥️ Languages  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
 ### 🛠 Testing & QA  
-![BDD](https://img.shields.io/badge/-BDD-009688?style=flat&logo=cucumber&logoColor=white)  
-![Cucumber/Gherkin](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
-![Test Automation](https://img.shields.io/badge/-Test%20Automation-FF9A00?style=flat)  
-![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-2C2255?style=flat)  
-![Integration Testing](https://img.shields.io/badge/-Integration%20Testing-4A90E2?style=flat)  
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/-BDD-009688?style=flat&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Test%20Automation-FF9A00?style=flat" />
+  <img src="https://img.shields.io/badge/-Unit%20Testing-2C2255?style=flat" />
+  <img src="https://img.shields.io/badge/-Integration%20Testing-4A90E2?style=flat" />
+</p>
 
 ### ☁️ Cloud Platforms  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
-![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=google-cloud&logoColor=white)  
-![Google Cloud Storage](https://img.shields.io/badge/-Google%20Cloud%20Storage-1A73E8?style=flat&logo=google-cloud&logoColor=white)  
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud%20Storage-1A73E8?style=flat&logo=google-cloud&logoColor=white" />
+</p>
 
 ### 🚀 DevOps & Version Control  
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-005571?style=flat&logo=github-actions&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-CI%2FCD-005571?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
+</p>
 
 ---
 
