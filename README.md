@@ -1,11 +1,10 @@
-# 🚀 Welcome to My GitHub Profile!  
+👋 Hey, I’m Matt!
 
-## 🏆 About Me  
-🎯 Full-Stack Developer | 🚀 Open Source Enthusiast | 🎨 UI/UX Lover  
+I’m a Software Engineering Apprentice at Apple, currently working in the Data Team after previously being part of the Quality Assurance & Software Testing Team. My experience spans testing, automation, cloud technologies, and data workflows, but I’m always looking to expand my skill set beyond just what I’ve worked on.
 
-💻 Passionate about web development and problem-solving!  
-📌 Currently learning **Next.js, Docker & AI Development**  
-🎯 Open to collaboration and exciting projects!  
+While my GitHub is mostly empty right now due to work restrictions, that’s about to change—I’ll be posting more personal projects as I explore new technologies, build cool things, and experiment with ideas outside of work. I’m interested in software development, cloud computing, DevOps, and AI/ML, and I love learning about new tools and best practices to improve efficiency and scalability in engineering.
+
+Let’s connect and build something awesome! 🚀
 
 ---
 
@@ -49,15 +48,5 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matthew-east-a30023b8/))
