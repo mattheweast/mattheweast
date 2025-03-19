@@ -17,5 +17,5 @@ While my GitHub is mostly empty right now due to work restrictions, that’s abo
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-## 🚀 Connect with Me  
+🚀 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matthew-east-a30023b8/))
