@@ -2,13 +2,13 @@
 
 🎓 Former Apple Genius turned Software Engineer Apprentice, I recently completed a 5-month Software Engineering bootcamp at Makers Academy and am now gaining real-world experience through my Level 4 apprenticeship. I started in QA automation and have since transitioned into Data Engineering.
 
-🔭 Currently, I’m working on my final Level 4 project, building a data pipeline using Scala, Python, SQL, Terraform, BigQuery, and GCS.
+🔭 Currently, I’m working on my apprenticeships final project, building a data pipeline using Scala, Python, SQL, Terraform, BigQuery, and GCS.
 
 📚 Outside of work, I’m actively expanding my skill set through courses and personal projects. My main focus is mybooks, a custom Management System designed to track, manage, and analyze your books efficiently.
 
 🌱 Passionate about continuous learning and problem-solving, I thrive in collaborative environments and am currently seeking Software Engineering roles to further develop my expertise and contribute to innovative projects.
 
-
+🥅 My goal is to 
 
 ⚡ Tech Stack
 <p align="left">
