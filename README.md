@@ -4,6 +4,16 @@ I’m a Software Engineering Apprentice at Apple, currently working in the Data 
 
 While my GitHub is mostly empty right now due to work restrictions, that’s about to change—I’ll be posting more personal projects as I explore new technologies, build cool things, and experiment with ideas outside of work.
 
+🎓 Former Apple Genius turned Software Engineer Apprentice, I recently completed a 5-month Software Engineering bootcamp at Makers Academy and am now gaining real-world experience through my Level 4 apprenticeship. I started in QA automation and have since transitioned into Data Engineering.
+
+🔭 Currently, I’m working on my final Level 4 project, building a data pipeline using Scala, Python, SQL, Terraform, BigQuery, and GCS.
+
+📚 Outside of work, I’m actively expanding my skill set through courses and personal projects. My main focus is mybooks, a custom Management System designed to track, manage, and analyze your books efficiently.
+
+🌱 Passionate about continuous learning and problem-solving, I thrive in collaborative environments and am currently seeking Software Engineering roles to further develop my expertise and contribute to innovative projects.
+
+
+
 ⚡ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
