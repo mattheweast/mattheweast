@@ -1,9 +1,5 @@
 # 👋 Hey, I’m Matt
 
-I’m a Software Engineering Apprentice at Apple, currently working in the Data Team after previously being part of the Quality Assurance & Software Testing Team. My experience spans testing, automation, cloud technologies, and data workflows, but I’m always looking to expand my skill set beyond just what I’ve worked on.
-
-While my GitHub is mostly empty right now due to work restrictions, that’s about to change—I’ll be posting more personal projects as I explore new technologies, build cool things, and experiment with ideas outside of work.
-
 🎓 Former Apple Genius turned Software Engineer Apprentice, I recently completed a 5-month Software Engineering bootcamp at Makers Academy and am now gaining real-world experience through my Level 4 apprenticeship. I started in QA automation and have since transitioned into Data Engineering.
 
 🔭 Currently, I’m working on my final Level 4 project, building a data pipeline using Scala, Python, SQL, Terraform, BigQuery, and GCS.
