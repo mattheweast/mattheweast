@@ -1,5 +1,26 @@
 # 👋 Hey, I’m Matt
 
+```python
+matthew_east = {
+    "pronouns": "he/him",
+    "role": "Apprentice Software Engineer @ Apple (Shazam)",
+    "languages": ["Python", "Java", "Ruby", "Scala", "SQL", "HTML", "CSS"],
+    "cloud_platforms": ["AWS", "GCP", "BigQuery", "GCS"],
+    "devops": ["CI/CD", "Git", "Terraform"],
+    "testing": ["BDD", "Cucumber/Gherkin", "Selenium", "Test Automation"],
+    "tools": ["Airflow", "Streamlit", "JUnit", "GitLab CI/CD"],
+    "architecture": ["ETL Pipelines", "Infrastructure as Code", "Test Automation"],
+    "tech_communities": {
+        "alumni": "Makers Academy",
+        "current_apprenticeship": "Makers Level 4 Software Engineering"
+    },
+    "challenge": "Currently honing my Data Engineering and DevOps skills while working on automation projects."
+}
+
+print(f"Hi there! I'm {matthew_east['role']} 🚀 Passionate about {matthew_east['challenge']}")
+
+```
+
 🎓 Former Apple Genius turned Software Engineer Apprentice, I recently completed a 5-month Software Engineering bootcamp at Makers Academy and am now gaining real-world experience in role. I started in QA automation and have since transitioned into Data Engineering.
 
 🔭 Currently, I’m working on my apprenticeships final project, building a data pipeline using Scala, Python, SQL, Terraform, BigQuery, and GCS.
