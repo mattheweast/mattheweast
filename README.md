@@ -1,23 +1,26 @@
 # 👋 Hey, I’m Matt
 
 ```python
-matthew_east = {
-    "pronouns": "he/him",
-    "role": "Apprentice Software Engineer @ Apple (Shazam)",
-    "languages": ["Python", "Java", "Ruby", "Scala", "SQL", "HTML", "CSS"],
-    "cloud_platforms": ["AWS", "GCP", "BigQuery", "GCS"],
-    "devops": ["CI/CD", "Git", "Terraform"],
-    "testing": ["BDD", "Cucumber/Gherkin", "Selenium", "Test Automation"],
-    "tools": ["Airflow", "Streamlit", "JUnit", "GitLab CI/CD"],
-    "architecture": ["ETL Pipelines", "Infrastructure as Code", "Test Automation"],
-    "tech_communities": {
-        "alumni": "Makers Academy",
-        "current_apprenticeship": "Makers Level 4 Software Engineering"
-    },
-    "challenge": "Currently honing my Data Engineering and DevOps skills while working on automation projects."
-}
+class MatthewEast:
+    def __init__(self):
+        self.role = "Apprentice Software Engineer @ Apple (Shazam)"
+        self.languages = ["Python", "Java", "Ruby", "Scala", "SQL", "HTML", "CSS"]
+        self.cloud_platforms = ["AWS", "GCP", "BigQuery", "GCS"]
+        self.devops = ["CI/CD", "Git", "Terraform"]
+        self.testing = ["BDD", "Cucumber/Gherkin", "Selenium", "Test Automation"]
+        self.tools = ["Airflow", "Streamlit", "JUnit", "GitLab CI/CD"]
+        self.architecture = ["ETL Pipelines", "Infrastructure as Code", "Test Automation"]
+        self.tech_communities = {
+            "alumni": "Makers Academy",
+            "current_apprenticeship": "Makers Level 4 Software Engineering"
+        }
+        self.challenge = "Currently honing my Data Engineering and DevOps skills while working on automation projects."
 
-print(f"Hi there! I'm {matthew_east['role']} 🚀 Passionate about {matthew_east['challenge']}")
+    def introduce(self):
+        return f"Hi there! I'm {self.role} 🚀 Passionate about {self.challenge}"
+
+me = MatthewEast()
+print(me.introduce())
 
 ```
 
