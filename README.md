@@ -8,7 +8,7 @@
 
 🌱 Passionate about continuous learning and problem-solving, I thrive in collaborative environments and am currently seeking Software Engineering roles to further develop my expertise and contribute to innovative projects.
 
-⚡ Tech Stack
+##⚡ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -20,6 +20,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-🚀 Connect with Me  
+##🚀 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matthew-east-a30023b8/))
