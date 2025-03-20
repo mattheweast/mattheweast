@@ -15,5 +15,5 @@
 
 
 ## 🚀 Connect with Me  
+[LinkedIn - Matthew East](https://www.linkedin.com/in/matthew-east-a30023b8/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-east-a30023b8/)
