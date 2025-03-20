@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Matt
 
-🎓 Former Apple Retail enployee turned Software Engineer Apprentice. I recently completed a 5-month Software Engineering bootcamp at Makers Academy and am now gaining real-world experience in role. I started in QA automation and have since transitioned into Data Engineering.
+🎓 Former Apple Retail employee turned Software Engineer Apprentice. I recently completed a 5-month Software Engineering bootcamp at Makers Academy and am now gaining real-world experience in role. I started in QA automation and have since transitioned into Data Engineering.
 
 🔭 Currently, I’m working on my apprenticeships final project, building a data pipeline using Scala, Python, SQL, Terraform, BigQuery, and GCS.
 
