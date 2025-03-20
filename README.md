@@ -8,8 +8,6 @@
 
 🌱 Passionate about continuous learning and problem-solving, I thrive in collaborative environments and am currently seeking Software Engineering roles to further develop my expertise and contribute to innovative projects.
 
-🥅 Due to work restriction I can not use my personal GitHub for any work tasks, so my goal is to share more of my personal projects here over the coming months.
-
 ⚡ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
