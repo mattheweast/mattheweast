@@ -10,7 +10,7 @@
 
 ## ⚡ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,ruby,scala,sql,aws,gcp,git,terraform,docker,bash,selenium" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,ruby,scala,SQL,aws,gcp,git,terraform,docker,bash,selenium" />
 </p>
 
 
