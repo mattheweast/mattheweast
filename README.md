@@ -2,7 +2,7 @@
 
 I’m a Software Engineering Apprentice at Apple, currently working in the Data Team after previously being part of the Quality Assurance & Software Testing Team. My experience spans testing, automation, cloud technologies, and data workflows, but I’m always looking to expand my skill set beyond just what I’ve worked on.
 
-While my GitHub is mostly empty right now due to work restrictions, that’s about to change—I’ll be posting more personal projects as I explore new technologies, build cool things, and experiment with ideas outside of work. I’m interested in software development, cloud computing, DevOps, and AI/ML, and I love learning about new tools and best practices to improve efficiency and scalability in engineering.
+While my GitHub is mostly empty right now due to work restrictions, that’s about to change—I’ll be posting more personal projects as I explore new technologies, build cool things, and experiment with ideas outside of work.
 
 ⚡ Tech Stack
 <p align="left">
