@@ -14,5 +14,4 @@
 </p>
 
 
-## 🚀 Connect with Me  
-[LinkedIn - Matthew East](https://www.linkedin.com/in/matthew-east-a30023b8/)
+## 🚀 [Connect with Me](https://www.linkedin.com/in/matthew-east-a30023b8/)
