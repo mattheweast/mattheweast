@@ -6,7 +6,7 @@
 
 📚 Outside of work, I’m actively expanding my skill set through courses and personal projects.
 
-🌱 Passionate about continuous learning and problem-solving, I thrive in collaborative environments and am currently seeking Software Engineering roles to further develop my expertise and contribute to innovative projects.
+🌱 Passionate about continuous learning and problem-solving, I thrive in collaborative environments and am currently seeking Software Engineering roles to further develop my expertise and contribute to innovative projects. 
 
 ## ⚡ Tech Stack
 <p align="left">
