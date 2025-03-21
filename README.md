@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Matt
+#  Hey, I’m Matt
 
 🎓 Former Apple Retail employee turned Software Engineer Apprentice. I recently completed a 5-month Software Engineering bootcamp at Makers Academy and am now gaining real-world experience in role. I started in QA automation and have since transitioned into Data Engineering.
 
