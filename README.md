@@ -12,11 +12,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,python,java,scala,aws,gcp,git,terraform,docker,kubernetes,mysql,bash,obsidian,idea" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheweast&layout=compact&card_width=1000" />
+</p>
 
 ## 🚀 Connect with Me  
 [LinkedIn - Matthew East](https://www.linkedin.com/in/matthew-east-a30023b8/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheweast&layout=compact&card_width=1000" />
-</p>
+
