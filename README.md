@@ -18,5 +18,5 @@
 [LinkedIn - Matthew East](https://www.linkedin.com/in/matthew-east-a30023b8/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&card_width=800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheweast&layout=compact&card_width=800" />
 </p>
