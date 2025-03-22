@@ -16,3 +16,5 @@
 
 ## 🚀 Connect with Me  
 [LinkedIn - Matthew East](https://www.linkedin.com/in/matthew-east-a30023b8/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattheweast&layout=compact)
