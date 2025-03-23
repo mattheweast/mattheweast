@@ -4,7 +4,7 @@
 
 🔭 Currently, I’m working on my apprenticeships final project, building a data pipeline using Scala, Python, SQL, Terraform, BigQuery, and GCS.
 
-📚 Outside of work, I’m actively expanding my skill set through courses and personal projects.
+📚 Outside of work, I’m actively expanding my skill set through courses and personal projects. 
 
 🌱 Passionate about continuous learning and problem-solving, I thrive in collaborative environments and am currently seeking Software Engineering roles to further develop my expertise and contribute to innovative projects. 
 
