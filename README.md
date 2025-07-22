@@ -1,4 +1,5 @@
-#  Hey, I’m Matt
+#  Hello, I'm Matt!
 
-🎓 Makers / Apple Software Engineering Apprentice Graduate.
-[Apple]("https://www.apple.com/uk/")
+🎓 Gratuate @ [Makers](https://makers.tech/learn/apprenticeships)
+<br>
+👨🏼‍💻 Software Engineer @ [Apple](https://www.apple.com/uk/)
