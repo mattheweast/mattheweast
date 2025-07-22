@@ -1,4 +1,4 @@
-#  Hello, I'm Matt!
+#  Hey, I'm Matt!
 
 🎓 Gratuate @ [Makers](https://makers.tech/learn/apprenticeships)
 <br>
