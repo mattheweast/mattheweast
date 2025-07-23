@@ -1,4 +1,4 @@
-#  Hey, I'm Matt!
+![Header Image](githubcover.png)
 
 🎓 Gratuate @ [Makers](https://makers.tech/learn/apprenticeships)
 <br>
