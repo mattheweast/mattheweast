@@ -11,6 +11,6 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 <br>
 <blockquote>
-  Side project builder | Passionate about turning ideas into code.
+  Project Builder | Passionate about turning ideas into code.
 </blockquote>
 <h3>Current Projects:</h3>
