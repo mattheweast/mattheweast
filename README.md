@@ -1,5 +1,5 @@
 # Hey, I'm Matt
-📍 Cork, Ireland | 🤖 Software Engineer, Supply Chain Intergrations @apple | 👨🏼‍🎓 SWE Graduate @apple
+📍 Cork, Ireland | 🤖 Software Engineer, Supply Chain Intergrations | 👨🏼‍🎓 SWE Graduate
 <br>
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
