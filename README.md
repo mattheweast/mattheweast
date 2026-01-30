@@ -13,6 +13,4 @@
 <blockquote>
   Side project builder | Passionate about turning ideas into code | SWE Graduate finding my feet in the world of Engineering.
 </blockquote>
-
-<br>
 <h3>Current Projects:</h3>
