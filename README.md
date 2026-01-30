@@ -1,5 +1,5 @@
 # Hey, I'm Matt
-📍 Cork, Ireland | 🤖 Software Engineer, Supply Chain Intergrations | 👨🏼‍🎓 SWE Graduate
+📍 Cork, Ireland | 🤖 Software Engineer | 👨🏼‍🎓 SWE Graduate
 <br>
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -11,6 +11,6 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 <br>
 <blockquote>
-  Side project builder | Passionate about turning ideas into code | SWE Graduate finding my feet in the world of Engineering.
+  Side project builder | Passionate about turning ideas into code.
 </blockquote>
 <h3>Current Projects:</h3>
