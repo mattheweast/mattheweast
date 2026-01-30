@@ -1,5 +1,5 @@
 # Hey, I'm Matt
-📍 Cork, Ireland | 🤖 Software Engineer | 👨🏼‍🎓 SWE Graduate
+📍 Cork, Ireland | 🤖 Software Engineer | 👨🏼‍🎓 SWE Apprenticeship Graduate
 <br>
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
