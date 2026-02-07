@@ -9,7 +9,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
-> Project Builder | Passionate about turning ideas into code | All code here is my own!
+> Project Builder | Passionate about turning ideas into code | All code is my own!
 
 ## Current Projects
 
