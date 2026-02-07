@@ -9,7 +9,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
-> Junior SWE, building projects to develop my skill set
+> Junior SWE, building projects to develop my skill set.
 
 ## Current Projects
 
