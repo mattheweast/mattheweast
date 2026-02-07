@@ -14,4 +14,4 @@ z# Hey, I'm Matt
   Project Builder | Passionate about turning ideas into code | All code here is my own!
 </blockquote>
 <h3>Current Projects:</h3>
-- [django-blog](https://github.com/mattheweast/django-blog) - A personal Django blog project showcasing backend skills with Python and your stack.[web:22]
+- [django-blog](https://github.com/mattheweast/django-blog)
