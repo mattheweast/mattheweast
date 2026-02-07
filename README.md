@@ -11,4 +11,4 @@
 
 ## Current Projects
 
-- [django-blog](https://github.com/mattheweast/django-blog) - Django blog project built with Python backend.
+- [django-blog](https://github.com/mattheweast/django-blog) - Django blog project.
