@@ -1,4 +1,4 @@
-z# Hey, I'm Matt
+# Hey, I'm Matt
 📍 Cork, Ireland | 🤖 Software Engineer | 👨🏼‍🎓 SWE Apprenticeship Graduate
 <br>
 <br>
