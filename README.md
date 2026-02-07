@@ -1,4 +1,4 @@
-# Hey, I'm Matt
+z# Hey, I'm Matt
 📍 Cork, Ireland | 🤖 Software Engineer | 👨🏼‍🎓 SWE Apprenticeship Graduate
 <br>
 <br>
@@ -11,6 +11,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 <br>
 <blockquote>
-  Project Builder | Passionate about turning ideas into code | All code here is my own, no company/work code!
+  Project Builder | Passionate about turning ideas into code | All code here is my own!
 </blockquote>
 <h3>Current Projects:</h3>
+- [![Django Blog]([https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-repo-name)](https://github.com/YOUR_USERNAME/project-repo-name](https://github.com/mattheweast/django-blog))
