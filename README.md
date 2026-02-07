@@ -14,4 +14,4 @@ z# Hey, I'm Matt
   Project Builder | Passionate about turning ideas into code | All code here is my own!
 </blockquote>
 <h3>Current Projects:</h3>
-- [![Django Blog]([https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-repo-name)](https://github.com/YOUR_USERNAME/project-repo-name](https://github.com/mattheweast/django-blog))
+- [django-blog](https://github.com/mattheweast/django-blog) - A personal Django blog project showcasing backend skills with Python and your stack.[web:22]
