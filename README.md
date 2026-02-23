@@ -8,5 +8,5 @@
 > Junior SWE, building projects to develop my skill set.
 
 ## Current Projects
-[Personal Inventory Tracker](https://github.com/mattheweast/django-project)
+[Personal Inventory Tracker](https://github.com/mattheweast/django-project) - Django website to track personal inventory and resale values.
 
