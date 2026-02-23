@@ -8,5 +8,5 @@
 > Junior SWE, building projects to develop my skill set.
 
 ## Current Projects
-[![Django Personal Inventory Tracker](https://github.com/mattheweast/django-project)](https://github.com/mattheweast/django-project)
+[Django Personal Inventory Tracker](https://github.com/mattheweast/django-project)](https://github.com/mattheweast/django-project)
 
