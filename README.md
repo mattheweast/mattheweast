@@ -7,6 +7,8 @@
 ![CoreData](https://img.shields.io/badge/coredata-000000?style=flat-square&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white)
 
+Focusing on Swift and iOS development. This is what I’ve built so far.
+
 ## Projects
 
 [I Am Rich](https://github.com/mattheweast/i-am-rich) - A basic SwiftUI app recreating the classic "I Am Rich" concept.
