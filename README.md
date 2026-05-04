@@ -1,9 +1,4 @@
-# Hey, I'm Matt
-
-📍 Cork, Ireland | Software Engineer  
-
 ## Tech
-
 
 ![Swift](https://img.shields.io/badge/swift-000000?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftui-000000?style=flat-square&logo=swift&logoColor=white)
