@@ -9,5 +9,4 @@
 
 ## Projects
 
-### [I Am Rich](https://github.com/mattheweast/i-am-rich)
-A basic SwiftUI app recreating the classic "I Am Rich" concept.
+### [I Am Rich](https://github.com/mattheweast/i-am-rich) - A basic SwiftUI app recreating the classic "I Am Rich" concept.
