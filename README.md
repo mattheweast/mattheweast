@@ -1,7 +1,6 @@
 # Hey, I'm Matt
 
-📍 Cork, Ireland  
-Software Engineer  
+📍 Cork, Ireland | Software Engineer  
 
 ## Tech
 
