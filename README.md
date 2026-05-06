@@ -7,7 +7,7 @@
 ![CoreData](https://img.shields.io/badge/coredata-000000?style=flat-square&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white)
 
-Focusing on Swift and iOS development. This is what I’ve built so far.
+Focusing on Swift and iOS development.
 
 ## Projects
 
